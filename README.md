@@ -1,7 +1,7 @@
 <h1 align="center">Merhaba, ben Ahmet 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;A%C3%A7%C4%B1k+Kaynak+Tutkunu;S%C3%BCrekli+%C3%B6%C4%9Freniyorum" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=DevOps+Merakl%C4%B1s%C4%B1;Yapay+Zeka+ile+%C4%B0lgileniyorum;S%C3%BCrekli+%C3%B6%C4%9Freniyorum" alt="Typing SVG" />
 </p>
 
 <!-- SOSYAL MEDYA ROZETLERİ -->
@@ -20,9 +20,9 @@
 ---
 
 ### 🚀 Hakkımda
-- 🔭 Şu anda **proje adı** üzerinde çalışıyorum
-- 🌱 **React & Node.js** öğreniyorum
-- 💬 Bana **Python, JavaScript** hakkında soru sorabilirsin
+- 🔭 **DevOps** ve **Yapay Zeka** alanlarında kendimi geliştiriyorum
+- 🌱 **Docker, Kubernetes, CI/CD** ve **Makine Öğrenmesi** öğreniyorum
+- 💬 Bana **DevOps, Python, Yapay Zeka** hakkında soru sorabilirsin
 - ⚡ Boş zamanlarımda açık kaynak projelere katkı sağlıyorum
 
 ---
@@ -30,11 +30,12 @@
 ### 🛠️ Teknolojiler
 
 <p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
